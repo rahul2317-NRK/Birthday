@@ -1,0 +1,66 @@
+body {
+  font-family: "Forum", serif;
+  font-weight: 400;
+  font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-color: #f0e68c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+.Message {
+    font-size: 28px;
+    color: #ff4500;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    background-color: #ff4500;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ff6347;
+}
+
+#surprise-message {
+    font-size: 1.5rem;
+    color: #008080;
+    margin-top: 20px;
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+#balloons {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://cdn.pixabay.com/photo/2014/12/21/23/56/balloons-576912_960_720.png') repeat;
+    opacity: 0.1;
+    z-index: -1;
+}
+.one{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
