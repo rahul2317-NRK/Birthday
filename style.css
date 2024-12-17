@@ -44,12 +44,7 @@ button:hover {
     margin-top: 20px;
     display: none;
 }
-#second-message {
-    font-size: 1.5rem;
-    color: #09676f;
-    margin-top: 20px;
-    display: none;
-}
+
 
 .hidden {
     display: none;
