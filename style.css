@@ -44,9 +44,9 @@ button:hover {
     margin-top: 20px;
     display: none;
 }
-.two {
+#second-message {
     font-size: 1.5rem;
-    color: #008080;
+    color: #09676f;
     margin-top: 20px;
     display: none;
 }
