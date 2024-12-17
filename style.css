@@ -2,6 +2,7 @@ body {
   font-family: "Forum", serif;
   font-weight: 400;
   font-style: normal;
+  color: #fff;
     margin: 0;
     padding: 0;
     background-color: #f0e68c;
@@ -10,7 +11,7 @@ body {
     align-items: center;
     height: 100vh;
     overflow: hidden;
-  background: url('https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background: url('https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=600');
 }
 
 .container {
