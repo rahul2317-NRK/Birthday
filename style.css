@@ -44,7 +44,7 @@ button:hover {
     margin-top: 20px;
     display: none;
 }
-#surprise-message-1 {
+.two {
     font-size: 1.5rem;
     color: #008080;
     margin-top: 20px;
